@@ -1,0 +1,5 @@
+# Ignore env and output
+.env
+output/
+processed_files.txt
+__pycache__/
